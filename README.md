@@ -4,7 +4,7 @@
 
 Создаю приложения для автоматизации бизнес-процессов и поддержки решений: от запроса заказчика и требований до данных, программы и сопровождения. Два самостоятельно разработанных продукта для Газпром нефти переданы заказчику и используются в компании.
 
-[Портфолио проектов](https://github.com/Lavrentiy123/portfolio) · [Telegram](https://t.me/Lavr02) · [Email](mailto:ylv30072002@mail.ru)
+[Портфолио проектов](https://github.com/Lavrentiy123/portfolio) · [Открытый код](https://github.com/Lavrentiy123/project-code) · [Telegram](https://t.me/Lavr02) · [Email](mailto:ylv30072002@mail.ru)
 
 ## Над чем работаю
 
@@ -18,7 +18,7 @@
 
 2. [Конвейер стратегической аналитики — Газпром нефть](https://github.com/Lavrentiy123/portfolio/blob/main/docs/02-strategy-pipeline.md) — готовый продукт: три роли, 19 сценариев, экспертное согласование; передан заказчику и используется в компании.
 
-3. [G2 — выбор стратегического документа](https://github.com/Lavrentiy123/portfolio/blob/main/docs/03-strategy-assistant.md) — готовый сервис выбора документа по методологии заказчика; передан и используется в компании.
+3. [Стратегический помощник — выбор документа](https://github.com/Lavrentiy123/portfolio/blob/main/docs/03-strategy-assistant.md) — готовый сервис выбора документа по методологии заказчика; передан и используется в компании.
 
 4. [ПроАкт.Транспорт](https://github.com/Lavrentiy123/portfolio/blob/main/docs/04-proact-transport.md) — командный хакатонный проект прогнозирования отклонения от расписания.
 
